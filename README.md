@@ -1,2 +1,1 @@
-# darknet_ros_yolo3
- 
+# YOLO ROS: Real-Time Object Detection for ROS
